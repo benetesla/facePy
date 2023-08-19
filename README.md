@@ -11,7 +11,7 @@ O facePY é um sistema simples em Python que utiliza o OpenCV para detectar rost
 ## Instalação
 
 1. Clone este repositório para o seu ambiente local:
-2. git clone https://github.com/benetesla/facePy.git
+2. ``git clone https://github.com/benetesla/facePy.git``
    
 ## Uso
 
